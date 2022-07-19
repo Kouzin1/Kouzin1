@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akinwunmi Samuel
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Computer Science with MAthematics at Obafemi Awolowo University
+- 🌱 I’m currently learning Computer Science with Mathematics at Obafemi Awolowo University
 - 💞️ I’m looking to collaborate on projects and startup
 - 📫 How to reach me Email: akinwunmisamuel70@yahoo.com
 
